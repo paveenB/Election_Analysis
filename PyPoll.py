@@ -4,23 +4,8 @@
 # 3. The percentage of votes each candidate won
 # 4. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote
-
-"""
-import csv
-import os
-
-
-file_to_load = file_to_load = os.path.join("Resources", "election_results.csv")
-with open(file_to_load) as election_data:
-    print(election_data)
-
-file_to_save = os.path.join("analysis", "election_analysis.txt")
-with open(file_to_save, "w") as txt_file:
-
-    txt_file.write("Counties in the Election\n------------------------\n")
-    txt_file.write("Arapahoe\nDenver\nJefferson")
-"""   
 # Add our dependencies.
+
 import csv
 import os
 # Assign a variable to load a file from a path.
