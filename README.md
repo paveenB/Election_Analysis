@@ -43,6 +43,11 @@ Denver had the Largest County Turnout
 
 ![This is an image](https://github.com/paveenB/Election_Analysis/blob/main/terminal_output.png)
 
+## Election Audit Summary
+
+The script created to calculate the overall election results could be used in other situations.  It could be used to calculate results in surveys or opinion questionnaires and other exploratory findings that need to be counted and compared.  The names and places could be changed, subtracted or added easily.  Of course the numbers would also need to be changed.  The script would be able to count and also give a result of the percetages of counts.
+
+
 
 
 
