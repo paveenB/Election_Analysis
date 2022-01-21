@@ -41,7 +41,7 @@ Denver had the Largest County Turnout
 
 ![This is an image](https://github.com/paveenB/Election_Analysis/blob/main/terminal_output.png)
 
-![This is an image]()
+![This is an image](https://github.com/paveenB/Election_Analysis/blob/main/txt_output.png)
 
 
 
