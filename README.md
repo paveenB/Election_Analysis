@@ -38,10 +38,10 @@ Denver had the Largest County Turnout
 * Diana DeGette has the total percentage votes of 73.8%
 * This makes Diana DeGette the winner of the election.
 
+#### Overview of Results:
+
 
 ![This is an image](https://github.com/paveenB/Election_Analysis/blob/main/terminal_output.png)
-
-![This is an image](https://github.com/paveenB/Election_Analysis/blob/main/txt_output.png)
 
 
 
